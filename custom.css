@@ -1,0 +1,49 @@
+/* ===== Styled Headings ===== */
+
+h1 {
+    background: #333333;
+    padding: 12px;
+    /* border-left: 6px solid #4a90e2; */
+    font-size: 2.0em;
+    margin-top: 40px;
+    color:  #ffffff;
+}
+
+h2 {
+    background: #d4d4d4;
+    padding: 8px;
+    /* border-left: 4px solid #7db4ff; */
+    font-size: 1.6em;
+    margin-top: 30px;
+}
+
+h3 {
+    background: #ebebeb;
+    /* border-left: 3px solid #b0cfff; */
+    padding-left: 8px;
+    margin-top: 20px;
+}
+
+h4 {
+    background: #fafafa;
+    /* border-left: 3px solid #b0cfff; */
+    padding-left: 8px;
+    margin-top: 20px;
+}
+
+/* ===== Divider ===== */
+.section-break {
+    height: 3px;
+    background: #4a90e2;
+    margin: 40px 0;
+    border-radius: 2px;
+}
+
+/* ===== Note / Highlight Box ===== */
+.note-box {
+    background: #eef5ff;
+    /* border-left: 5px solid #4a90e2; */
+    padding: 12px 16px;
+    margin: 20px 0;
+    border-radius: 4px;
+}
